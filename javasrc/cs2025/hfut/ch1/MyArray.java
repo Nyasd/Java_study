@@ -1,4 +1,4 @@
-package ch1;
+package cs2025.hfut.ch1;
 
 public class MyArray{
 	public static void main(String[] args){
