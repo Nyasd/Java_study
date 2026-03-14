@@ -1,4 +1,4 @@
-package cs2025;
+package cs2025.hfut.ch2;
 
 public class Point2D {
 	int x,y;
